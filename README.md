@@ -8,7 +8,7 @@
 
   
 
-- 🌱 I’m currently going deeper with ****harness engineering and Agenetic architecture****
+- 🌱 I’m currently going deeper with ****Harness Engineering and Agenetic Architecture****
 
   
 
