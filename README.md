@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Mohammed Shaik</h1>
 
-<h3 align="center">A am a backend software engineer working at Takeda</h3>
+<h3 align="center">I am a software engineer building AI agent platforms for life sciences</h3>
 
   
 
-- 🔭 I’m currently working on [youtube audio player](https://github.com/pdwytr/yt-audios)
+- 🔭 I’m currently building [pigeon](https://github.com/pdwytr/pigeon), one desktop view of every coding agent running on my machine (Rust, Tauri, React)
 
   
 
-- 🌱 I’m currently going deeper with ****Harness Engineering and Agenetic Architecture****
+- 🌱 I’m currently going deeper with ****agent security, sandboxing (Docker Sandboxes, macOS Seatbelt) and agent evaluations****
 
   
 
@@ -16,11 +16,11 @@
 
   
 
-- 💬 Ask me about ****Harness Engineering, FastAPIs, file format conversions especially PDFs****
+- 💬 Ask me about ****shipping AI-written code to production safely, multi-agent workflows, FastAPI, and PDF conversions****
 
   
 
-- 📫 How to reach me **moknshaik@gmail.com**
+- 📫 How to reach me **moknshaik@gmail.com** or [moknshaik.com](https://moknshaik.com/)
 
   
 
@@ -30,7 +30,7 @@
 
 <a href="https://twitter.com/pdwytrfa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pdwytrfa" height="30" width="40" /></a>
 
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/pdwytr/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pdwytr/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/pdwytr/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pdwytr/" height="30" width="40" /></a>
 
 </p>
 
