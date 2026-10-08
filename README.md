@@ -1,49 +1,30 @@
-<h1 align="center">Hi 👋, I'm Mohammed Shaik</h1>
+# Hi, I'm Mohammed
 
-<h3 align="center">I am a software engineer building AI agent platforms for life sciences</h3>
+I'm a software engineer in Dallas, building AI agent platforms for life sciences at Integrated Analytics Solutions.
 
-  
+### Now
 
-- 🔭 I’m currently building [pigeon](https://github.com/pdwytr/pigeon), one desktop view of every coding agent running on my machine (Rust, Tauri, React)
+- Building [pigeon](https://github.com/pdwytr/pigeon), a small always-on-top window that shows which of my coding agents are running, which are waiting on me, and which are done.
+- Going deeper on agent security and sandboxing (Docker Sandboxes, macOS Seatbelt), and on agent evaluations.
+- Rebuilding [quickxorhash](https://github.com/pdwytr/quickxorhash) as a dependency-free Go CLI and library.
 
-  
+### Selected work
 
-- 🌱 I’m currently going deeper with ****agent security, sandboxing (Docker Sandboxes, macOS Seatbelt) and agent evaluations****
+- **[pigeon](https://github.com/pdwytr/pigeon)**: reads what Claude Code, Codex and OpenCode write to disk and shows every session's status in one 322px window. Local-only, read-only. Rust, Tauri, React.
+- **[quickxorhash](https://github.com/pdwytr/quickxorhash)**: computes the QuickXorHash that OneDrive and Microsoft Graph report for a file, so you can check hash parity locally before and after a migration. Go.
+- **[Before you let AI write your code, ask the right question](https://github.com/pdwytr/Before-You-Let-AI-Write-Your-Code-Ask-the-Right-Question)**: an essay on sorting problems into probabilistic and deterministic before deciding where AI belongs in the lifecycle.
 
-  
+### Writing
 
-- 👨‍💻 All of my projects are available at [https://github.com/pdwytr](https://github.com/pdwytr)
+I write at [moknshaik.com](https://moknshaik.com/). Two to start with:
 
-  
+- [Pigeon: you thought your agents were working, but they were blocked](https://moknshaik.com/blogs/pigeon-agent-console/)
+- [The Real Leverage Problem: AI in Software Development](https://moknshaik.com/blogs/real-leverage-problem-ai-in-software-development/)
 
-- 💬 Ask me about ****shipping AI-written code to production safely, multi-agent workflows, FastAPI, and PDF conversions****
+Ask me about shipping AI-written code to production safely, multi-agent workflows, FastAPI, and PDF conversions.
 
-  
+**Tools I reach for:** Python, FastAPI, Go, Rust, TypeScript, React, Tauri.
 
-- 📫 How to reach me **moknshaik@gmail.com** or [moknshaik.com](https://moknshaik.com/)
+### Contact
 
-  
-
-<h3 align="left">Connect with me:</h3>
-
-<p align="left">
-
-<a href="https://twitter.com/pdwytrfa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pdwytrfa" height="30" width="40" /></a>
-
-<a href="https://www.linkedin.com/in/pdwytr/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pdwytr/" height="30" width="40" /></a>
-
-</p>
-
-  
-
-<h3 align="left">Languages and Tools:</h3>
-
-<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" alt="rust" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
-
-  
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pdwytr&show_icons=true&locale=en&layout=compact" alt="pdwytr" /></p>
-
-  
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pdwytr&show_icons=true&locale=en" alt="pdwytr" /></p>
+[moknshaik@gmail.com](mailto:moknshaik@gmail.com) · [LinkedIn](https://www.linkedin.com/in/pdwytr/) · [X](https://x.com/pdwytrfa) · [moknshaik.com](https://moknshaik.com/)
