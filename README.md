@@ -1,6 +1,6 @@
 # Hi, I'm Mohammed
 
-I'm a software engineer in Dallas, building AI agent platforms for life sciences at Integrated Analytics Solutions.
+I'm a software engineer in Dallas, building AI agent platforms for life sciences at Integrated Analytic Solutions.
 
 ### Now
 
